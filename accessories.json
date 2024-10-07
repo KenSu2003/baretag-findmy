@@ -1,0 +1,19 @@
+[
+  {
+    "id": 0,
+    "colorComponents": [
+      0.6196078431372549,
+      0.6196078431372549,
+      0.6196078431372549,
+      1
+    ],
+    "name": "Baretag 1",
+    "privateKey": "OtVcUifk794D8xgexJTMRn795QX9ZXtw/ZgqcQ==",
+    "icon": "mappin",
+    "isDeployed": false,
+    "colorSpaceName": "kCGColorSpaceSRGB",
+    "usesDerivation": false,
+    "isActive": false,
+    "additionalKeys": []
+  }
+]
